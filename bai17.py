@@ -17,6 +17,7 @@ def countries(country=""):
     print("im from",country)
 countries("thailand")
 countries("america")
+#return
 def math(x):
     return x+10
 print(math(3))
