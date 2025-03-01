@@ -22,6 +22,9 @@ print(x)
 #insert item
 x.insert(4,"huyyyyy")
 print(x)
-#adđ item to the end of list
+#adđ item to the end of list    
 x.append("messi")
+print(x)
+#remove item 
+x.remove("aaa")
 print(x)
